@@ -46,6 +46,6 @@
 
 <p align="left">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Nast1G&repo=Nast1G&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Sova_Karl&repo=Sova_Karl&countColor=%237B1E7A" />
    </a>
 </p>
