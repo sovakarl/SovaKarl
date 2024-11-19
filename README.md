@@ -3,7 +3,7 @@
 #### Welcome to my profile 👀. I am a Python  ML developer. Currently, I am learning Python, algorithms, and ML libraries. If you want to collaborate on a project, feel free to contact me!
 
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Sova_karl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sova_karl)
-[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-Mail-sil4enko.artur@yandex.ru-blue?style=flat-square&logo=Yandex&logoColor=white)](mailto:sil4enko.artur@yandex.ru)
+
 
 
 ### Languages and Tools:
