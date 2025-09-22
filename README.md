@@ -1,27 +1,25 @@
 ## Hi there I'm Artur 👋
 
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Sova_karl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sova_karl)
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Silchenko Artur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@sil4enko)
 
 
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=Python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-1E7775?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-
-
-
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-008000?style=for-the-badge&logo=gin&logoColor=white)
 
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFFFFF?style=for-the-badge&logo=clickhouse&logoColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
