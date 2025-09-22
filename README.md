@@ -1,7 +1,7 @@
 ## Hi there I'm Artur 👋
 
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Silchenko Artur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@sil4enko)
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-Silchenko_Artur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sil4enko)
 
 
 
